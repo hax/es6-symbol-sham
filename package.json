@@ -1,0 +1,18 @@
+{
+  "name": "es6-symbol-sham",
+  "version": "0.0.0",
+  "description": "ES6 Symbol Sham",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ES6",
+    "Symbol",
+    "shim",
+    "sham",
+    "polyfill"
+  ],
+  "author": "",
+  "license": "ISC"
+}
