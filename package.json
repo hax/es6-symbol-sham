@@ -1,6 +1,6 @@
 {
   "name": "es6-symbol-sham",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ES6 Symbol Sham",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
     "sham",
     "polyfill"
   ],
-  "author": "",
+  "author": "hax <johnhax@gmail.com>",
   "license": "ISC"
 }
